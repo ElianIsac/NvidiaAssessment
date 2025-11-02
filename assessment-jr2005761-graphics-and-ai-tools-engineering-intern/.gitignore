@@ -1,0 +1,13 @@
+# Build artifacts
+/build/
+/*.o
+*.out
+wasm_interpreter
+
+# IDE junk
+.vscode/
+.DS_Store
+
+# Logs / temps
+*.log
+*.tmp
